@@ -20,4 +20,4 @@ This is a simple shopping cart application built with **Vite** and **React** usi
 
 ## Live Demo
 
-You can view a live demo [here]()
+You can view a live demo [here](https://praveen-shopping-cart-reactjs.netlify.app/)
